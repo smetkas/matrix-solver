@@ -23,3 +23,5 @@ To compile the program, use the following command in your terminal:
 
 ```bash
 gcc -o gauss_elimination gauss_elimination.c -lm
+
+made with ChatGPT
